@@ -1,7 +1,7 @@
 # Pysy API Documentation
   >Pysy is composed by an api made with Django Rest Framework and a client made using Vuejs2 and bootstrap.
   
-  >You can see a demo video of this project working on https://goo.gl/HVjkM5
+  >You can see a demo video of this project working on [video](video.mp4)
 
 ### Running
     - docker-compose up --build
